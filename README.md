@@ -6,4 +6,5 @@ Below is the framework of the project:
 Here to convert road scene video frame into scenegraph a tool call roadscene2vec(https://github.com/AICPS/roadscene2vec) is use.
 
 In first step frames of the video clip is converted into scenegraph
-![Screenshot 2025-06-11 050033](https://github.com/user-attachments/assets/d06d1358-5a52-494d-ae18-973bc1fa5a24)
+
+![Screenshot 2025-06-11 053715](https://github.com/user-attachments/assets/a1ec09ae-d89c-4b10-a825-be1898aa57fc)
